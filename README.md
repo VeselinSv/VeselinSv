@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @VeselinSv
-- 👀 I’m interested in football
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? sveselin3@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: from Bulgaria
+ 👋 Hi, I’m @VeselinSv
+ 👀 I’m interested in football
+ 🌱 I’m currently learning c#
+ 📫 How to reach me? sveselin3@gmail.com
+ 😄 Pronouns: He
+ ⚡ Fun fact: from Bulgaria
 
 <!---
 VeselinSv/VeselinSv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
