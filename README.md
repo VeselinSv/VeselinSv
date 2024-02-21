@@ -30,8 +30,8 @@
    <br>
    <br>
    
-   ![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=0ktim.0ktim) 
-      ![GitHub followers](https://img.shields.io/github/followers/0ktim)
+   ![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=VeseliinSv.VeselinSv) 
+      ![GitHub followers](https://img.shields.io/github/followers/VeselinSv)
       
 
 <!---
