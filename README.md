@@ -7,7 +7,7 @@
   
 ## GitHub Stats
 <a href="https://github.com/VeselinSv">
-  <img height="350em" alt="My GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VeselinSv&show_icons=true&bg_color=000000&hide_border=true&text_color=008000db&count_private=true&include_all_commits=true" />
+  <img height="350em" alt="My GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VeselinSv&show_icons=true&bg_color=000000&hide_border=true&text_color=90EE90db&count_private=true&include_all_commits=true" />
 </a>
 
 ## Languages and tools:
