@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in football and technologies.
 - 🌱 I’m currently learning c#, arduino and unity.
-- 📫 How to reach me: VeselinSv in Discord
+- 📫 How to reach me: https://veselins.free.bg
 - ⚡ Fun fact: I’m a 15 yo student.
   
 ## GitHub Stats
