@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in football and technologies.
 - 🌱 I’m currently learning c#, arduino, css, html, try JS and unity.
-- 📫 How to reach me: https://veselins.free.bg
+- 📫 How to reach me: https://vstoyanov.free.bg
 - ⚡ Fun fact: Making my first game with Unity. Still in proggres.
 - 👀 Release date is about 15th September 2024.
 ## GitHub Stats
