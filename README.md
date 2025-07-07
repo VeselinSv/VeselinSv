@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning c#, arduino, css, html, try JS and unity.
 - 📫 How to reach me: https://vstoyanov.free.bg
 - ⚡ Fun fact: Making my first game with Unity. Still in proggres.
-- 👀 Release date is about 15th September 2024.
 ## GitHub Stats
 <a href="https://github.com/VeselinSv">
   <img height="350em" alt="My GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VeselinSv&show_icons=true&bg_color=000000&hide_border=true&text_color=90EE90db&count_private=true&include_all_commits=true" />
