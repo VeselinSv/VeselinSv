@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in football and technologies.
 - 🌱 I’m currently learning c#, arduino, css, html, try JS and unity.
-- 📫 How to reach me: https://vstoyanov.free.bg
+- 📫 How to reach me: https://x.com/VeselinStoqnov6
 - ⚡ Fun fact: Making my first game with Unity. Still in proggres.
 ## GitHub Stats
 <a href="https://github.com/VeselinSv">
