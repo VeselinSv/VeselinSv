@@ -137,7 +137,7 @@ Got an interesting idea? Let's connect!
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=VeselinSv&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=VeselinSv&style=flat-square&color=39FF14&label=PROFILE%20VIEWS)
 
 <br/><br/>
 
