@@ -137,7 +137,9 @@ Got an interesting idea? Let's connect!
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=VeselinSv)
+
+![Profile Views](https://hits.sh/github.com/VeselinSv.svg?style=flat-square&label=PROFILE%20VIEWS&color=39FF14)
+
 
 <br/><br/>
 
