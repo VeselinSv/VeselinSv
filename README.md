@@ -91,7 +91,7 @@ public class Veselin
     </td>
     <td align="center" width="50%">
       <b>🐍 SNAKE</b><br/>
-      <img src="./assets/arcade/snake.gif" width="100%" alt="Animated retro Snake game" />
+      <img src="./snake.gif" width="100%" alt="Animated retro Snake game" />
     </td>
   </tr>
   <tr>
