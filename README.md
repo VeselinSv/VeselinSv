@@ -138,7 +138,7 @@ I'm working on my first game using Unity and C#.
 </a>
 
 <a href="https://github.com/VeselinSv">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeselinSv&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&langs_count=8" alt="Most Used Languages" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VeselinSv&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&langs_count=8" alt="Most Used Languages" />
 </a>
 
 <br/><br/>
