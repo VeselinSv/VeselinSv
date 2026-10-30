@@ -87,7 +87,7 @@ public class Veselin
   <tr>
     <td align="center" width="50%">
       <b>🟡 PAC-MAN</b><br/>
-      <img src="./assets/arcade/pacman.gif" width="100%" alt="Animated Pac-Man style maze chase" />
+      <img src="./pacman.gif" width="100%" alt="Animated Pac-Man style maze chase" />
     </td>
     <td align="center" width="50%">
       <b>🐍 SNAKE</b><br/>
