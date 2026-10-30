@@ -134,7 +134,7 @@ I'm working on my first game using Unity and C#.
 <div align="center">
 
 <a href="https://github.com/VeselinSv">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VeselinSv&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=VeselinSv&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/VeselinSv">
