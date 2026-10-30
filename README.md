@@ -97,7 +97,7 @@ public class Veselin
   <tr>
     <td align="center" width="50%">
       <b>🏓 NEON PONG</b><br/>
-      <img src="./assets/arcade/pong.gif" width="100%" alt="Animated neon Pong game" />
+      <img src="./pong.gif" width="100%" alt="Animated neon Pong game" />
     </td>
     <td align="center" width="50%">
       <b>👾 SPACE INVADERS</b><br/>
