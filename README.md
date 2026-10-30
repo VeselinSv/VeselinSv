@@ -101,7 +101,7 @@ public class Veselin
     </td>
     <td align="center" width="50%">
       <b>👾 SPACE INVADERS</b><br/>
-      <img src="./assets/arcade/space-invaders.gif" width="100%" alt="Animated Space Invaders style arcade game" />
+      <img src="./space-invaders.gif" width="100%" alt="Animated Space Invaders style arcade game" />
     </td>
   </tr>
 </table>
