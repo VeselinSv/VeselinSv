@@ -2,13 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=680&lines=Aspiring+Software+Developer;Learning+C%23+%26+Unity;Building+My+First+Game;Exploring+Web+Development;Code.+Create.+Repeat." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=720&lines=C%23+%26+JavaScript+Developer;Building+Real+Software+Projects;Web+Development+%7C+Game+Development;Exploring+AI+%26+Machine+Learning;Code.+Build.+Improve." alt="Typing SVG" />
 
-### 💻 Developer in Progress · 🎮 Game Dev · ⚽ Football Fan
+### 💻 Software Development · 🌐 Web Development · 🎮 Game Development
 
-*Learning new things, building cool projects, and leveling up every day.*
-
-<br/>
+*I enjoy turning ideas into working software, experimenting with different technologies, and continuously improving my development skills.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-VeselinSv-181717?style=for-the-badge&logo=github)](https://github.com/VeselinSv)
 [![X](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x)](https://x.com/VeselinStoqnov6)
@@ -19,61 +17,112 @@
 
 ## 👨‍💻 About Me
 
-```csharp
-public class Veselin
-{
-    public string Name = "Veselin Stoyanov";
+I'm Veselin Stoyanov, a developer interested in software engineering, web technologies, game development, and experimenting with new ideas.
 
-    public string[] Interests =
-    {
-        "Technology", "Football", "Gaming"
-    };
+I enjoy working on projects that involve more than just writing code — from designing interfaces and implementing application logic to exploring databases, APIs, and interactive experiences.
 
-    public string[] Learning =
-    {
-        "C#", "Unity", "JavaScript",
-        "HTML", "CSS", "Arduino"
-    };
+- 💻 Working with C# and JavaScript.
+- 🌐 Developing interactive web applications.
+- 🎮 Exploring game development with Unity.
+- 🧪 Experimenting with Python and machine learning technologies.
+- 🔌 Exploring electronics and Arduino.
+- 🛠️ Using Git and GitHub to manage and share projects.
 
-    public string[] Tools =
-    {
-        "Git", "GitHub", "VS Code", "Visual Studio"
-    };
-
-    public string CurrentProject =
-        "My first Unity game 🎮";
-
-    public string Status = "Always learning 🚀";
-}
-```
-
-- 🎮 Currently developing my first game with Unity.
-- 💡 Exploring programming, electronics, and new technologies.
-- 🌐 Learning web development with HTML, CSS, and JavaScript.
-- 🧰 Using Git and GitHub to work with and share code.
-- 🚀 My goal is to turn ideas into real projects.
+My focus is on learning through practical development and building increasingly complex applications.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🚀 Featured Projects
+
+Here are some of the projects I'm working on and developing.
+
+### 🎮 1. FLIPOUT
+
+**An interactive browser-based arcade game.**
+
+A 2D arcade experience featuring gravity-changing gameplay, different game modes, bots, and online multiplayer functionality.
+
+**Technologies:**
+`HTML` `CSS` `JavaScript` `Canvas API` `Web Audio API` `PeerJS` `Firebase`
+
+[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/VeselinSv/FLIPOUT)
+
+---
+
+### 🎓 2. EduVision
+
+**An educational platform with AI-powered functionality.**
+
+A project focused on combining educational features with modern web technologies and AI-assisted experiences.
+
+**Technologies:**
+`React` `TypeScript` `Node.js` `Express.js` `MySQL` `JWT`
+
+[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/VeselinSv/EduVision)
+
+---
+
+### 🧪 3. ML Experiment Lab
+
+**A desktop application for machine learning experimentation.**
+
+An early-stage project establishing the foundations of a desktop environment for working with machine learning experiments.
+
+**Technologies:**
+`Python` `PySide6` `pytest`
+
+**Status:** Early development / Foundation stage.
+
+[![View Repository](https://img.shields.io/badge/VIEW%20PROJECT-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/VeselinSv/ML-Experiment-Lab)
+
+---
+
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
-### Languages & Web
+### Programming & Web Development
 
-<img src="https://skillicons.dev/icons?i=cs,js,html,css&theme=dark" alt="C#, JavaScript, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=cs,js,html,css&theme=dark" alt="C#, JavaScript, HTML and CSS" />
+
+### Frameworks & Project Technologies
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,typescript,python&theme=dark" alt="React, Node.js, TypeScript and Python" />
 
 ### Game Development & Electronics
 
 <img src="https://skillicons.dev/icons?i=unity,arduino&theme=dark" alt="Unity and Arduino" />
 
-### Tools & Development Environment
+### Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" alt="Git, GitHub, VS Code, Visual Studio" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" alt="Git, GitHub, VS Code and Visual Studio" />
 
 </div>
 
-<sub>Technologies I'm learning, exploring, or using in my projects.</sub>
+**Technologies I use or explore through projects:**
+
+| Area | Technologies |
+|---|---|
+| Programming | C#, JavaScript, Python |
+| Frontend | HTML, CSS, React, TypeScript |
+| Backend | Node.js, Express.js |
+| Databases | MySQL, Firebase |
+| Game Development | Unity, Canvas API |
+| Testing | pytest |
+| Development Tools | Git, GitHub, VS Code, Visual Studio |
+
+*Technologies are listed according to their use in my projects and current learning activities, not as a claim of equal proficiency in every tool.*
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Expanding my existing software projects.
+- 💻 Improving my C# and JavaScript development skills.
+- 🎮 Learning more about Unity and game development.
+- 🌐 Exploring frontend and backend architecture.
+- 🧪 Understanding machine learning workflows.
+- 🔌 Experimenting with Arduino and electronics.
 
 ---
 
@@ -81,27 +130,27 @@ public class Veselin
 
 <div align="center">
 
-*Just for fun — little retro arcade animations running right inside my profile!*
+*Retro arcade animations — just for fun!*
 
 <table>
   <tr>
     <td align="center" width="50%">
       <b>🟡 PAC-MAN</b><br/>
-      <img src="./pacman.gif" width="100%" alt="Animated Pac-Man style maze chase" />
+      <img src="./pacman.gif" width="100%" alt="Pac-Man animation" />
     </td>
     <td align="center" width="50%">
       <b>🐍 SNAKE</b><br/>
-      <img src="./snake.gif" width="100%" alt="Animated retro Snake game" />
+      <img src="./snake.gif" width="100%" alt="Snake animation" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <b>🏓 NEON PONG</b><br/>
-      <img src="./pong.gif" width="100%" alt="Animated neon Pong game" />
+      <img src="./pong.gif" width="100%" alt="Pong animation" />
     </td>
     <td align="center" width="50%">
       <b>👾 SPACE INVADERS</b><br/>
-      <img src="./space-invaders.gif" width="100%" alt="Animated Space Invaders style arcade game" />
+      <img src="./space-invaders.gif" width="100%" alt="Space Invaders animation" />
     </td>
   </tr>
 </table>
@@ -110,26 +159,7 @@ public class Veselin
 
 ---
 
-## 🎮 What I'm Building
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PROJECT-My%20First%20Unity%20Game-39FF14?style=for-the-badge&labelColor=0D1117" alt="Unity game project" />
-
-</div>
-
-I'm working on my first game using Unity and C#.
-
-- 🧠 Learning game development fundamentals.
-- ⚙️ Experimenting with gameplay mechanics and scripting.
-- 🛠️ Improving my coding and debugging skills.
-- 🚧 **Status:** Work in progress!
-
-*More projects coming soon...*
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -151,7 +181,7 @@ I'm working on my first game using Unity and C#.
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 Contribution Activity
 
 <div align="center">
 
@@ -161,26 +191,15 @@ I'm working on my first game using Unity and C#.
 
 ---
 
-## 🎯 Developer Roadmap
-
-- [x] Start learning programming
-- [x] Explore HTML and CSS
-- [x] Start learning C# and Unity
-- [ ] Finish my first Unity game
-- [ ] Build more personal projects
-- [ ] Improve my JavaScript skills
-- [ ] Explore more Arduino projects
-- [ ] Create something awesome 🚀
-
----
-
-## 📬 Connect With Me
+## 📬 Let's Connect
 
 <div align="center">
 
-Got an interesting idea? Let's connect!
+Interested in technology, programming, and creative projects?
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github)](https://github.com/VeselinSv)
+Feel free to explore my repositories and follow my development journey.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github)](https://github.com/VeselinSv)
 [![X](https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x)](https://x.com/VeselinStoqnov6)
 
 <br/><br/>
