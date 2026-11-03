@@ -2,14 +2,15 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&pause=1000&color=39FF14&center=true&vCenter=true&width=750&lines=Software+Development;Web+Development+%26+Frontend;Game+Development+%26+Unity;C%23+%7C+JavaScript+%7C+Python;AI+%26+Machine+Learning+Exploration;Arduino+%26+Electronics;Building+Real+Software+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&pause=1000&color=39FF14&center=true&vCenter=true&width=750&lines=Software+Development;Web+Development+%26+Web+Technologies;Game+Development+%26+Unity;Programming+%26+Problem+Solving;Arduino+%26+Electronics;Building+Creative+Digital+Projects;Always+Learning+Something+New" alt="Typing SVG" />
 
-### 💻 Software Development · 🌐 Web Development · 🎮 Game Development
-### 🧪 AI & Machine Learning · 🔌 Electronics & Technology
+### 💻 Software Development · 🌐 Web Technologies
+### 🎮 Game Development · 🔌 Electronics & Technology
 
-*Building software, exploring technologies, experimenting with ideas, and turning concepts into real projects.*
+*Exploring technology, developing projects, learning new skills, and turning ideas into working applications.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-VeselinSv-181717?style=for-the-badge&logo=github)](https://github.com/VeselinSv)
+[![Repositories](https://img.shields.io/badge/My%20Projects-Explore-39FF14?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VeselinSv?tab=repositories)
 [![X](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x)](https://x.com/VeselinStoqnov6)
 
 </div>
@@ -18,125 +19,239 @@
 
 ## 👨‍💻 About Me
 
-I'm Veselin Stoyanov, a technology enthusiast and software developer interested in building applications, interactive experiences, and experimenting with different areas of programming.
+Hey! I'm Veselin Stoyanov, a technology enthusiast interested in software development, programming, game development, web technologies, and electronics.
 
-My interests go beyond a single programming language. I enjoy exploring different technologies and understanding how software, hardware, and modern applications work together.
+I enjoy exploring different areas of technology, experimenting with ideas, and developing projects that help me understand how software and hardware work.
 
-### What I'm interested in:
+I'm not focused on just one programming language. I enjoy learning different technologies and discovering how they can work together.
+
+### What I enjoy exploring
 
 - 💻 **Software Development** – Programming, application logic, problem-solving and debugging.
-- 🌐 **Web Development** – HTML, CSS, JavaScript and modern frontend technologies.
-- 🎮 **Game Development** – Unity, C#, interactive gameplay and game mechanics.
-- 🧪 **AI & Machine Learning** – Exploring machine learning concepts and experimenting with Python.
-- 🔌 **Electronics & Hardware** – Arduino, microcontrollers and hardware-related projects.
-- 🗄️ **Application Data & Backend** – Exploring databases, application architecture and data management.
-- 🛠️ **Developer Tools** – Git, GitHub, Visual Studio and VS Code.
+- 🌐 **Web Development** – Building websites, working with HTML, CSS and JavaScript.
+- 🎮 **Game Development** – Unity, C#, game mechanics and interactive experiences.
+- 🔌 **Electronics & Hardware** – Arduino, electronics and hardware-related experiments.
+- 🧠 **Programming Fundamentals** – Logical thinking, computational problem-solving and code structure.
+- 🛠️ **Development Tools** – Git, GitHub, Visual Studio and Visual Studio Code.
+- 🚀 **Technology Exploration** – Discovering new tools, software and development possibilities.
 
-I enjoy learning through real projects rather than limiting myself to tutorials.
+My goal is to keep improving by building real projects and learning through experimentation.
 
 ---
 
-## 🛠️ Technologies & Technical Skills
+## 🧠 My Technical Knowledge
 
-<div align="center">
+I enjoy exploring technology from different perspectives, from writing code to creating interactive applications.
 
-### 💻 Programming Languages
+### 💻 Programming & Computer Science
 
-<img src="https://skillicons.dev/icons?i=cs,js,python&theme=dark" alt="C#, JavaScript, Python" />
+- Programming fundamentals
+- Variables and data types
+- Conditional statements and loops
+- Methods and functions
+- Classes and objects
+- Application logic
+- Problem-solving and debugging
+- Writing and organizing code
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,react,typescript,nodejs&theme=dark" alt="HTML, CSS, React, TypeScript, Node.js" />
+- HTML document structure
+- CSS styling and visual layouts
+- JavaScript fundamentals
+- Interactive web elements
+- Frontend development concepts
+- Browser-based applications
+- Website design and structure
 
-### 🎮 Game Development & Interactive Applications
+### 🎮 Game Development
 
-<img src="https://skillicons.dev/icons?i=unity&theme=dark" alt="Unity" />
-
-### 🧪 Data, AI & Machine Learning Exploration
-
-<img src="https://skillicons.dev/icons?i=python,firebase,mysql&theme=dark" alt="Python, Firebase, MySQL" />
+- Unity Game Engine
+- C# scripting
+- Game development fundamentals
+- Gameplay mechanics
+- Interactive experiences
+- Game logic and experimentation
 
 ### 🔌 Electronics & Hardware
 
+- Arduino platform
+- Introduction to microcontrollers
+- Hardware and software interaction
+- Electronics experimentation
+- Exploring programmable hardware
+
+### 🧰 Development & Version Control
+
+- Git fundamentals
+- GitHub repositories
+- Version control
+- Source code management
+- Visual Studio
+- Visual Studio Code
+- Working with development environments
+
+*These areas represent my current knowledge, practice and learning activities. I'm continuously developing my experience.*
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=cs,js&theme=dark" alt="C# and JavaScript" />
+
+### Web Technologies
+
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML and CSS" />
+
+### Game Development
+
+<img src="https://skillicons.dev/icons?i=unity&theme=dark" alt="Unity" />
+
+### Electronics
+
 <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" />
 
-### 🧰 Tools & Development Environment
+### Developer Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" alt="Git, GitHub, VS Code, Visual Studio" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" alt="Git, GitHub, VS Code and Visual Studio" />
 
 </div>
 
-### Technical Areas
+### Technology Overview
 
-| Category | Technologies & Areas |
+| Field | Technologies |
 |---|---|
-| Programming | C#, JavaScript, Python |
-| Web Fundamentals | HTML5, CSS3, JavaScript |
-| Frontend | React, TypeScript |
-| Backend | Node.js, Express.js |
-| Game Development | Unity, C#, Canvas API |
-| Interactive Web | Web Audio API, browser-based game development |
-| Databases & Services | MySQL, Firebase |
-| AI & ML | Python, machine learning experimentation |
-| Electronics | Arduino, microcontrollers |
-| Desktop Applications | Python, PySide6 |
-| Testing | pytest |
+| Programming | C#, JavaScript |
+| Web | HTML5, CSS3 |
+| Game Development | Unity, C# |
+| Electronics | Arduino |
 | Version Control | Git, GitHub |
-| IDEs | Visual Studio, VS Code |
-
-*This list covers technologies used, explored, or encountered in my projects. My experience and proficiency vary between technologies.*
-
----
-
-## 🚀 Featured Projects
-
-### 🎮 FLIPOUT
-
-**Interactive 2D Browser Arcade Game**
-
-A browser-based arcade game featuring gravity-changing gameplay, multiple game modes, bots and online multiplayer functionality.
-
-**Technologies:** JavaScript, HTML, CSS, Canvas API, Web Audio API, PeerJS, Firebase.
-
-[![Repository](https://img.shields.io/badge/VIEW%20SOURCE-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/VeselinSv/FLIPOUT)
+| Code Editors | Visual Studio Code, Visual Studio |
+| Development | Debugging, code organization, programming fundamentals |
 
 ---
 
-### 🎓 EduVision
+## 🚀 Projects & Development
 
-**Educational Platform with AI Functionality**
+I believe the best way to improve programming skills is to build things.
 
-An educational software project combining web technologies with AI-assisted functionality.
+I'm interested in creating applications, experimenting with different technologies, and turning concepts into working projects.
 
-**Technologies:** React, TypeScript, Node.js, Express.js, MySQL.
+### 🎮 My First Unity Game
 
-[![Repository](https://img.shields.io/badge/VIEW%20SOURCE-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/VeselinSv/EduVision)
+<badge color="success">In Development</badge>
 
----
+I'm currently exploring game development using Unity and C#.
 
-### 🧪 ML Experiment Lab
+My focus includes:
 
-**Desktop Application for Machine Learning Experiments**
-
-An experimental desktop application focused on creating a foundation for organizing and working with machine learning experiments.
-
-**Technologies:** Python, PySide6, pytest.
-
-**Status:** Early development.
-
-[![Repository](https://img.shields.io/badge/VIEW%20SOURCE-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/VeselinSv/ML-Experiment-Lab)
+- Learning how Unity projects are structured.
+- Writing scripts using C#.
+- Experimenting with gameplay mechanics.
+- Understanding game logic.
+- Improving debugging and problem-solving skills.
+- Turning an idea into a playable experience.
 
 ---
 
-## 🎯 Current Development Focus
+### 📂 Explore My GitHub Repositories
 
-- 💻 Improving programming and software engineering fundamentals.
-- 🌐 Developing web applications and improving frontend skills.
-- 🎮 Expanding my knowledge of Unity and game development.
-- 🧪 Exploring Python and machine learning.
-- 🔌 Experimenting with Arduino and electronics.
-- 🗄️ Learning more about databases, backend systems and APIs.
-- 🚀 Building more complex personal projects.
+All my publicly available projects and experiments can be found here.
+
+<div align="center">
+
+[![Explore Repositories](https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github)](https://github.com/VeselinSv?tab=repositories)
+
+[![GitHub Profile](https://img.shields.io/badge/VISIT%20MY%20PROFILE-39FF14?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VeselinSv)
+
+</div>
+
+---
+
+## ⚙️ My Development Workflow
+
+I enjoy going through the process of turning an idea into a working project.
+
+<details>
+<summary><b>💡 1. Idea & Planning</b></summary>
+
+Thinking about the problem, understanding what I want to build, and planning the main functionality.
+
+</details>
+
+<details>
+<summary><b>⌨️ 2. Coding & Implementation</b></summary>
+
+Writing code, experimenting with different approaches, and implementing application features.
+
+</details>
+
+<details>
+<summary><b>🔍 3. Testing & Debugging</b></summary>
+
+Checking how the project works, identifying issues, and improving the implementation.
+
+</details>
+
+<details>
+<summary><b>🔄 4. Improvements</b></summary>
+
+Refining existing features, learning better techniques, and experimenting with new ideas.
+
+</details>
+
+<details>
+<summary><b>📦 5. Git & GitHub</b></summary>
+
+Managing source code, tracking changes, and keeping projects organized using Git and GitHub.
+
+</details>
+
+---
+
+## 🔬 Technology Interests
+
+Apart from my current projects, there are several areas of technology that I enjoy exploring.
+
+<div align="center">
+
+| 💻 Software | 🌐 Web | 🎮 Gaming |
+|:---:|:---:|:---:|
+| Application Development | Frontend | Unity |
+| Programming Logic | Interactive Websites | Game Mechanics |
+| Debugging | Web Technologies | Game Design |
+| 🔌 Hardware | 🧠 Computer Science | 🚀 Innovation |
+|:---:|:---:|:---:|
+| Arduino | Programming Concepts | New Technologies |
+| Electronics | Algorithms | Creative Projects |
+| Microcontrollers | Problem Solving | Experimentation |
+
+</div>
+
+---
+
+## 🎯 Current Learning & Goals
+
+I'm always looking for opportunities to improve my knowledge and build more interesting projects.
+
+- [x] Start learning programming.
+- [x] Explore HTML and CSS.
+- [x] Start learning C#.
+- [x] Explore JavaScript.
+- [x] Start experimenting with Unity.
+- [x] Explore Arduino.
+- [ ] Improve programming fundamentals.
+- [ ] Expand my JavaScript knowledge.
+- [ ] Develop more advanced web projects.
+- [ ] Complete my first Unity game.
+- [ ] Explore more electronics projects.
+- [ ] Improve my Git and GitHub workflow.
+- [ ] Learn additional programming technologies.
+- [ ] Build more complex personal projects.
 
 ---
 
@@ -144,7 +259,7 @@ An experimental desktop application focused on creating a foundation for organiz
 
 <div align="center">
 
-*Retro arcade animations — just for fun!*
+*Just for fun — retro arcade animations inside my GitHub profile!*
 
 <table>
   <tr>
@@ -205,18 +320,15 @@ An experimental desktop application focused on creating a foundation for organiz
 
 ---
 
-## 🎯 Developer Roadmap
+## ⚽ Beyond Programming
 
-- [x] Start learning programming.
-- [x] Explore HTML and CSS.
-- [x] Start working with C# and JavaScript.
-- [x] Explore Unity and game development.
-- [x] Start experimenting with Arduino.
-- [ ] Complete my first Unity game.
-- [ ] Expand my web development projects.
-- [ ] Improve Python and machine learning knowledge.
-- [ ] Build more advanced applications.
-- [ ] Explore more software engineering concepts.
+Technology isn't my only interest!
+
+- ⚽ Football and sports.
+- 🎮 Video games and gaming culture.
+- 💻 Computers and technology.
+- 🧩 Creative challenges and problem-solving.
+- 🚀 Discovering new ideas and possibilities.
 
 ---
 
@@ -224,11 +336,12 @@ An experimental desktop application focused on creating a foundation for organiz
 
 <div align="center">
 
-Interested in technology, software development, and creative projects?
+Have an interesting project or technology idea?
 
 Explore my repositories and follow my development journey!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github)](https://github.com/VeselinSv)
+
 [![X](https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x)](https://x.com/VeselinStoqnov6)
 
 <br/><br/>
@@ -237,7 +350,7 @@ Explore my repositories and follow my development journey!
 
 <br/><br/>
 
-### 💚 Keep Learning. Keep Building.
+### 💚 Keep Learning. Keep Building. Keep Creating.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:00BFA5,100:0D1117&height=120&section=footer" width="100%" alt="Footer" />
 
