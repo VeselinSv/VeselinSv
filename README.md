@@ -1,454 +1,387 @@
-::: {align="center"}
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:071B2E,70:00D9FF,100:39FF14&height=220&section=header&text=VESELIN%20STOYANOV&fontSize=42&fontColor=EAFBFF&fontAlignY=38&desc=DEVELOPER%20%E2%80%A2%20CREATOR%20%E2%80%A2%20TECH%20ENTHUSIAST&descAlignY=58&descSize=14" width="100%" alt="Futuristic profile header" />`{=html}
+<div align="center">
 
-`<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=SOFTWARE+DEVELOPMENT;WEB+DEVELOPMENT+%2F%2F+WEB+TECHNOLOGIES;GAME+DEVELOPMENT+%2F%2F+UNITY;PROGRAMMING+%2F%2F+PROBLEM+SOLVING;ARDUINO+%2F%2F+ELECTRONICS;BUILDING+THE+FUTURE%2C+ONE+PROJECT+AT+A+TIME" alt="Typing animation" />`{=html}
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:071B2E,70:00F5FF,100:00F5FF&height=150&section=header" width="100%" alt="Neon cyberpunk header" />
 
-`<br/>`{=html}
+</div>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-VeselinSv-0B1220?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/VeselinSv)
-[![Repositories](https://img.shields.io/badge/PROJECTS-EXPLORE-0B1220?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/VeselinSv?tab=repositories)
-[![X](https://img.shields.io/badge/CONNECT-ON_X-0B1220?style=for-the-badge&logo=x&logoColor=00D9FF)](https://x.com/VeselinStoqnov6)
+# ⚡ Hey, I'm Veselin Stoyanov!
 
-`<br/>`{=html}
+<div align="center">
 
-`[ SYSTEM ONLINE ]`   `[ STATUS: ALWAYS LEARNING ]`   `[ MODE: BUILD ]`
-:::
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Software+Development;Web+Development+%26+Web+Technologies;Game+Development+%26+Unity;Programming+%26+Problem+Solving;Arduino+%26+Electronics;Building+Creative+Digital+Projects;Always+Learning+Something+New" alt="Typing SVG" />
 
-------------------------------------------------------------------------
+### 💻 Software Development · 🌐 Web Technologies
+### 🎮 Game Development · 🔌 Electronics & Technology
 
-## `01 // PROFILE`
+*Exploring technology, developing projects, learning new skills, and turning ideas into working applications.*
 
-Hey! I'm **Veselin Stoyanov**, a technology enthusiast interested in
-software development, programming, game development, web technologies,
-and electronics.
+[![GitHub](https://img.shields.io/badge/GitHub-VeselinSv-181717?style=for-the-badge&logo=github)](https://github.com/VeselinSv)
+[![Repositories](https://img.shields.io/badge/My%20Projects-Explore-00F5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VeselinSv?tab=repositories)
+[![X](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x)](https://x.com/VeselinStoqnov6)
 
-I enjoy exploring different areas of technology, experimenting with
-ideas, and developing projects that help me understand how software and
-hardware work.
+</div>
 
-I'm not focused on just one programming language. I enjoy learning
-different technologies and discovering how they can work together.
+---
 
-### Areas of exploration
+## 👨‍💻 About Me
 
-  -----------------------------------------------------------------------
-  Domain                              Focus
-  ----------------------------------- -----------------------------------
-  `01` 💻 **Software Development**    Programming, application logic,
-                                      problem-solving and debugging
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:39FF14&height=3" width="100%" alt="" />
 
-  `02` 🌐 **Web Development**         Websites, HTML, CSS and JavaScript
+Hey! I'm Veselin Stoyanov, a technology enthusiast interested in software development, programming, game development, web technologies, and electronics.
 
-  `03` 🎮 **Game Development**        Unity, C#, game mechanics and
-                                      interactive experiences
+I enjoy exploring different areas of technology, experimenting with ideas, and developing projects that help me understand how software and hardware work.
 
-  `04` 🔌 **Electronics & Hardware**  Arduino, electronics and hardware
-                                      experiments
+I'm not focused on just one programming language. I enjoy learning different technologies and discovering how they can work together.
 
-  `05` 🧠 **Programming               Logical thinking, computational
-  Fundamentals**                      problem-solving and code structure
+### What I enjoy exploring
 
-  `06` 🛠️ **Development Tools**       Git, GitHub, Visual Studio and
-                                      Visual Studio Code
+- 💻 **Software Development** – Programming, application logic, problem-solving and debugging.
+- 🌐 **Web Development** – Building websites, working with HTML, CSS and JavaScript.
+- 🎮 **Game Development** – Unity, C#, game mechanics and interactive experiences.
+- 🔌 **Electronics & Hardware** – Arduino, electronics and hardware-related experiments.
+- 🧠 **Programming Fundamentals** – Logical thinking, computational problem-solving and code structure.
+- 🛠️ **Development Tools** – Git, GitHub, Visual Studio and Visual Studio Code.
+- 🚀 **Technology Exploration** – Discovering new tools, software and development possibilities.
 
-  `07` 🚀 **Technology Exploration**  Discovering new tools, software and
-                                      development possibilities
-  -----------------------------------------------------------------------
+My goal is to keep improving by building real projects and learning through experimentation.
 
-> **MISSION:** Keep improving through practical projects,
-> experimentation, and continuous learning.
+---
 
-------------------------------------------------------------------------
+## 🧠 My Technical Knowledge
 
-## `02 // TECHNICAL KNOWLEDGE`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:39FF14&height=3" width="100%" alt="" />
 
-I enjoy exploring technology from different perspectives --- from
-writing code to creating interactive applications.
+I enjoy exploring technology from different perspectives, from writing code to creating interactive applications.
 
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}💻 Programming & Computer Science`</b>`{=html}
-```{=html}
-</summary>
-```
--   Programming fundamentals
--   Variables and data types
--   Conditional statements and loops
--   Methods and functions
--   Classes and objects
--   Application logic
--   Problem-solving and debugging
--   Writing and organizing code
+### 💻 Programming & Computer Science
 
-```{=html}
-</details>
-```
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}🌐 Web Development`</b>`{=html}
-```{=html}
-</summary>
-```
--   HTML document structure
--   CSS styling and visual layouts
--   JavaScript fundamentals
--   Interactive web elements
--   Frontend development concepts
--   Browser-based applications
--   Website design and structure
+- Programming fundamentals
+- Variables and data types
+- Conditional statements and loops
+- Methods and functions
+- Classes and objects
+- Application logic
+- Problem-solving and debugging
+- Writing and organizing code
 
-```{=html}
-</details>
-```
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}🎮 Game Development`</b>`{=html}
-```{=html}
-</summary>
-```
--   Unity Game Engine
--   C# scripting
--   Game development fundamentals
--   Gameplay mechanics
--   Interactive experiences
--   Game logic and experimentation
+### 🌐 Web Development
 
-```{=html}
-</details>
-```
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}🔌 Electronics & Hardware`</b>`{=html}
-```{=html}
-</summary>
-```
--   Arduino platform
--   Introduction to microcontrollers
--   Hardware and software interaction
--   Electronics experimentation
--   Exploring programmable hardware
+- HTML document structure
+- CSS styling and visual layouts
+- JavaScript fundamentals
+- Interactive web elements
+- Frontend development concepts
+- Browser-based applications
+- Website design and structure
 
-```{=html}
-</details>
-```
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<b>`{=html}🧰 Development & Version Control`</b>`{=html}
-```{=html}
-</summary>
-```
--   Git fundamentals
--   GitHub repositories
--   Version control
--   Source code management
--   Visual Studio
--   Visual Studio Code
--   Working with development environments
+### 🎮 Game Development
 
-```{=html}
-</details>
-```
-`<sub>`{=html}These areas represent my current knowledge, practice and
-learning activities. I'm continuously developing my
-experience.`</sub>`{=html}
+- Unity Game Engine
+- C# scripting
+- Game development fundamentals
+- Gameplay mechanics
+- Interactive experiences
+- Game logic and experimentation
 
-------------------------------------------------------------------------
+### 🔌 Electronics & Hardware
 
-## `03 // TECHNOLOGY STACK`
+- Arduino platform
+- Introduction to microcontrollers
+- Hardware and software interaction
+- Electronics experimentation
+- Exploring programmable hardware
 
-::: {align="center"}
-### PROGRAMMING LANGUAGES
+### 🧰 Development & Version Control
 
-`<img src="https://skillicons.dev/icons?i=cs,js&theme=dark" alt="C# and JavaScript" />`{=html}
+- Git fundamentals
+- GitHub repositories
+- Version control
+- Source code management
+- Visual Studio
+- Visual Studio Code
+- Working with development environments
 
-### WEB TECHNOLOGIES
+*These areas represent my current knowledge, practice and learning activities. I'm continuously developing my experience.*
 
-`<img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML and CSS" />`{=html}
+---
 
-### GAME DEVELOPMENT
+## 🛠️ Tech Stack & Tools
 
-`<img src="https://skillicons.dev/icons?i=unity&theme=dark" alt="Unity" />`{=html}
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:39FF14&height=3" width="100%" alt="" />
 
-### ELECTRONICS
+<div align="center">
 
-`<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" />`{=html}
+### Programming Languages
 
-### DEVELOPER TOOLS
+<img src="https://skillicons.dev/icons?i=cs,js&theme=dark" alt="C# and JavaScript" />
 
-`<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" alt="Git, GitHub, VS Code and Visual Studio" />`{=html}
-:::
+### Web Technologies
 
-  -----------------------------------------------------------------------
-  Category                            Technologies
-  ----------------------------------- -----------------------------------
-  **Programming**                     C#, JavaScript
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML and CSS" />
 
-  **Web**                             HTML5, CSS3
+### Game Development
 
-  **Game Development**                Unity, C#
+<img src="https://skillicons.dev/icons?i=unity&theme=dark" alt="Unity" />
 
-  **Electronics**                     Arduino
+### Electronics
 
-  **Version Control**                 Git, GitHub
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" />
 
-  **Code Editors**                    Visual Studio Code, Visual Studio
+### Developer Tools
 
-  **Development**                     Debugging, code organization,
-                                      programming fundamentals
-  -----------------------------------------------------------------------
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" alt="Git, GitHub, VS Code and Visual Studio" />
 
-------------------------------------------------------------------------
+</div>
 
-## `04 // PROJECT LAB`
+### Technology Overview
+
+| Field | Technologies |
+|---|---|
+| Programming | C#, JavaScript |
+| Web | HTML5, CSS3 |
+| Game Development | Unity, C# |
+| Electronics | Arduino |
+| Version Control | Git, GitHub |
+| Code Editors | Visual Studio Code, Visual Studio |
+| Development | Debugging, code organization, programming fundamentals |
+
+---
+
+## 🚀 Projects & Development
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:39FF14&height=3" width="100%" alt="" />
 
 I believe the best way to improve programming skills is to build things.
 
-I'm interested in creating applications, experimenting with different
-technologies, and turning concepts into working projects.
+I'm interested in creating applications, experimenting with different technologies, and turning concepts into working projects.
 
 ### 🎮 My First Unity Game
 
-![In
-Development](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-0B1220?style=flat-square&labelColor=071B2E&color=00D9FF)
+<badge color="success">In Development</badge>
 
-I'm currently exploring game development using **Unity** and **C#**.
+I'm currently exploring game development using Unity and C#.
 
-**Current focus:**
+My focus includes:
 
--   Learning how Unity projects are structured.
--   Writing scripts using C#.
--   Experimenting with gameplay mechanics.
--   Understanding game logic.
--   Improving debugging and problem-solving skills.
--   Turning an idea into a playable experience.
+- Learning how Unity projects are structured.
+- Writing scripts using C#.
+- Experimenting with gameplay mechanics.
+- Understanding game logic.
+- Improving debugging and problem-solving skills.
+- Turning an idea into a playable experience.
 
-### Repository access
+---
 
-::: {align="center"}
-[![Explore
-Repositories](https://img.shields.io/badge/ACCESS-ALL%20REPOSITORIES-0B1220?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/VeselinSv?tab=repositories)
+### 📂 Explore My GitHub Repositories
 
-[![GitHub
-Profile](https://img.shields.io/badge/OPEN-GITHUB%20PROFILE-0B1220?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/VeselinSv)
-:::
+All my publicly available projects and experiments can be found here.
 
-------------------------------------------------------------------------
+<div align="center">
 
-## `05 // DEVELOPMENT PROTOCOL`
+[![Explore Repositories](https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-181717?style=for-the-badge&logo=github)](https://github.com/VeselinSv?tab=repositories)
 
-My workflow for turning an idea into a working project:
+[![GitHub Profile](https://img.shields.io/badge/VISIT%20MY%20PROFILE-00F5FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VeselinSv)
 
-  -----------------------------------------------------------------------
-                   Phase                   Process
-  ---------------------------------------- ------------------------------
-                  `01` 💡                  **IDEA & PLANNING** ---
-                                           Understand the problem, define
-                                           the goal, and plan the main
-                                           functionality.
+</div>
 
-                  `02` ⌨️                  **CODING & IMPLEMENTATION**
-                                           --- Write code, experiment
-                                           with approaches, and implement
-                                           features.
+---
 
-                  `03` 🔍                  **TESTING & DEBUGGING** ---
-                                           Check the project, identify
-                                           issues, and improve the
-                                           implementation.
+## ⚙️ My Development Workflow
 
-                  `04` 🔄                  **ITERATION** --- Refine
-                                           features, learn better
-                                           techniques, and test new
-                                           ideas.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:39FF14&height=3" width="100%" alt="" />
 
-                  `05` 📦                  **VERSION CONTROL** --- Track
-                                           changes and organize source
-                                           code using Git and GitHub.
-  -----------------------------------------------------------------------
+I enjoy going through the process of turning an idea into a working project.
 
-------------------------------------------------------------------------
+<details>
+<summary><b>💡 1. Idea & Planning</b></summary>
 
-## `06 // INTEREST MATRIX`
+Thinking about the problem, understanding what I want to build, and planning the main functionality.
 
-::: {align="center"}
-         💻 SOFTWARE                🌐 WEB            🎮 GAMING
-  ------------------------- ---------------------- ----------------
-   Application Development         Frontend             Unity
-      Programming Logic      Interactive Websites   Game Mechanics
-          Debugging            Web Technologies      Game Design
+</details>
 
-     🔌 HARDWARE      🧠 COMPUTER SCIENCE      🚀 INNOVATION
-  ------------------ ---------------------- -------------------
-       Arduino        Programming Concepts   New Technologies
-     Electronics           Algorithms        Creative Projects
-   Microcontrollers     Problem Solving       Experimentation
-:::
+<details>
+<summary><b>⌨️ 2. Coding & Implementation</b></summary>
 
-------------------------------------------------------------------------
+Writing code, experimenting with different approaches, and implementing application features.
 
-## `07 // LEARNING ROADMAP`
+</details>
 
-I'm always looking for opportunities to improve my knowledge and build
-more interesting projects.
+<details>
+<summary><b>🔍 3. Testing & Debugging</b></summary>
 
-**Completed / explored**
+Checking how the project works, identifying issues, and improving the implementation.
 
--   [x] Start learning programming.
--   [x] Explore HTML and CSS.
--   [x] Start learning C#.
--   [x] Explore JavaScript.
--   [x] Start experimenting with Unity.
--   [x] Explore Arduino.
+</details>
 
-**Next objectives**
+<details>
+<summary><b>🔄 4. Improvements</b></summary>
 
--   [ ] Improve programming fundamentals.
--   [ ] Expand my JavaScript knowledge.
--   [ ] Develop more advanced web projects.
--   [ ] Complete my first Unity game.
--   [ ] Explore more electronics projects.
--   [ ] Improve my Git and GitHub workflow.
--   [ ] Learn additional programming technologies.
--   [ ] Build more complex personal projects.
+Refining existing features, learning better techniques, and experimenting with new ideas.
 
-------------------------------------------------------------------------
+</details>
 
-## `08 // ARCADE MODULE`
+<details>
+<summary><b>📦 5. Git & GitHub</b></summary>
 
-::: {align="center"}
-*Retro arcade energy. Neon interface.*
+Managing source code, tracking changes, and keeping projects organized using Git and GitHub.
 
-```{=html}
+</details>
+
+---
+
+## 🔬 Technology Interests
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:39FF14&height=3" width="100%" alt="" />
+
+Apart from my current projects, there are several areas of technology that I enjoy exploring.
+
+<div align="center">
+
+| 💻 Software | 🌐 Web | 🎮 Gaming |
+|:---:|:---:|:---:|
+| Application Development | Frontend | Unity |
+| Programming Logic | Interactive Websites | Game Mechanics |
+| Debugging | Web Technologies | Game Design |
+| 🔌 Hardware | 🧠 Computer Science | 🚀 Innovation |
+|:---:|:---:|:---:|
+| Arduino | Programming Concepts | New Technologies |
+| Electronics | Algorithms | Creative Projects |
+| Microcontrollers | Problem Solving | Experimentation |
+
+</div>
+
+---
+
+## 🎯 Current Learning & Goals
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:39FF14&height=3" width="100%" alt="" />
+
+I'm always looking for opportunities to improve my knowledge and build more interesting projects.
+
+- [x] Start learning programming.
+- [x] Explore HTML and CSS.
+- [x] Start learning C#.
+- [x] Explore JavaScript.
+- [x] Start experimenting with Unity.
+- [x] Explore Arduino.
+- [ ] Improve programming fundamentals.
+- [ ] Expand my JavaScript knowledge.
+- [ ] Develop more advanced web projects.
+- [ ] Complete my first Unity game.
+- [ ] Explore more electronics projects.
+- [ ] Improve my Git and GitHub workflow.
+- [ ] Learn additional programming technologies.
+- [ ] Build more complex personal projects.
+
+---
+
+## 🎮 The Arcade Corner
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:39FF14&height=3" width="100%" alt="" />
+
+<div align="center">
+
+*Just for fun — retro arcade animations inside my GitHub profile!*
+
 <table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td align="center" width="50%">
-```
-`<b>`{=html}🟡 PAC-MAN`</b>`{=html}`<br/>`{=html}
-`<img src="./pacman.gif" width="100%" alt="Pac-Man animation" />`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td align="center" width="50%">
-```
-`<b>`{=html}🐍 SNAKE`</b>`{=html}`<br/>`{=html}
-`<img src="./snake.gif" width="100%" alt="Snake animation" />`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td align="center" width="50%">
-```
-`<b>`{=html}🏓 NEON PONG`</b>`{=html}`<br/>`{=html}
-`<img src="./pong.gif" width="100%" alt="Pong animation" />`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td align="center" width="50%">
-```
-`<b>`{=html}👾 SPACE INVADERS`</b>`{=html}`<br/>`{=html}
-`<img src="./space-invaders.gif" width="100%" alt="Space Invaders animation" />`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
+  <tr>
+    <td align="center" width="50%">
+      <b>🟡 PAC-MAN</b><br/>
+      <img src="./pacman.gif" width="100%" alt="Pac-Man animation" />
+    </td>
+    <td align="center" width="50%">
+      <b>🐍 SNAKE</b><br/>
+      <img src="./snake.gif" width="100%" alt="Snake animation" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>🏓 NEON PONG</b><br/>
+      <img src="./pong.gif" width="100%" alt="Pong animation" />
+    </td>
+    <td align="center" width="50%">
+      <b>👾 SPACE INVADERS</b><br/>
+      <img src="./space-invaders.gif" width="100%" alt="Space Invaders animation" />
+    </td>
+  </tr>
 </table>
-```
-:::
 
-------------------------------------------------------------------------
+</div>
 
-## `09 // GITHUB ANALYTICS`
+---
 
-::: {align="center"}
-`<a href="https://github.com/VeselinSv">`{=html}
-`<img height="180" src="https://github-stats-extended.vercel.app/api?username=VeselinSv&show_icons=true&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=39FF14&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />`{=html}
-`</a>`{=html} `<a href="https://github.com/VeselinSv">`{=html}
-`<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VeselinSv&layout=compact&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Most Used Languages" />`{=html}
-`</a>`{=html}
+## 📊 GitHub Statistics
 
-`<br/>`{=html}`<br/>`{=html}
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:39FF14&height=3" width="100%" alt="" />
 
-`<a href="https://github.com/VeselinSv">`{=html}
-`<img width="75%" src="https://streak-stats.demolab.com/?user=VeselinSv&theme=dark&hide_border=true&background=050816&ring=00D9FF&fire=39FF14&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />`{=html}
-`</a>`{=html}
-:::
+<div align="center">
 
-------------------------------------------------------------------------
+<a href="https://github.com/VeselinSv">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=VeselinSv&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
+</a>
 
-## `10 // CONTRIBUTION ACTIVITY`
+<a href="https://github.com/VeselinSv">
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VeselinSv&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=8" alt="Most Used Languages" />
+</a>
 
-::: {align="center"}
-`<img src="https://raw.githubusercontent.com/VeselinSv/VeselinSv/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />`{=html}
-:::
+<br/><br/>
 
-------------------------------------------------------------------------
+<a href="https://github.com/VeselinSv">
+  <img width="75%" src="https://streak-stats.demolab.com/?user=VeselinSv&theme=dark&hide_border=true&background=0D1117&ring=00F5FF&fire=39FF14&currStreakLabel=00F5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
+</a>
 
-## `11 // OFFLINE INTERESTS`
+</div>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:39FF14&height=3" width="100%" alt="" />
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/VeselinSv/VeselinSv/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## ⚽ Beyond Programming
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:39FF14&height=3" width="100%" alt="" />
 
 Technology isn't my only interest!
 
--   ⚽ Football and sports.
--   🎮 Video games and gaming culture.
--   💻 Computers and technology.
--   🧩 Creative challenges and problem-solving.
--   🚀 Discovering new ideas and possibilities.
+- ⚽ Football and sports.
+- 🎮 Video games and gaming culture.
+- 💻 Computers and technology.
+- 🧩 Creative challenges and problem-solving.
+- 🚀 Discovering new ideas and possibilities.
 
-------------------------------------------------------------------------
+---
 
-## `12 // ESTABLISH CONNECTION`
+## 📬 Connect With Me
 
-::: {align="center"}
-**Have an interesting project or technology idea?**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:39FF14&height=3" width="100%" alt="" />
 
-Explore my repositories and follow my development journey.
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20PROJECTS-0B1220?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/VeselinSv)
+Have an interesting project or technology idea?
 
-[![X](https://img.shields.io/badge/X-FOLLOW%20ME-0B1220?style=for-the-badge&logo=x&logoColor=00D9FF)](https://x.com/VeselinStoqnov6)
+Explore my repositories and follow my development journey!
 
-`<br/>`{=html}
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github)](https://github.com/VeselinSv)
 
-![Profile
-Views](https://hits.sh/github.com/VeselinSv.svg?style=flat-square&label=PROFILE%20VIEWS&color=00D9FF)
+[![X](https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x)](https://x.com/VeselinStoqnov6)
 
-`<br/>`{=html}
+<br/><br/>
 
-### `KEEP LEARNING // KEEP BUILDING // KEEP CREATING`
+![Profile Views](https://hits.sh/github.com/VeselinSv.svg?style=flat-square&label=PROFILE%20VIEWS&color=00F5FF)
 
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:071B2E,75:00D9FF,100:39FF14&height=140&section=footer" width="100%" alt="Futuristic footer" />`{=html}
-:::
+<br/><br/>
+
+### 💚 Keep Learning. Keep Building. Keep Creating.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:00BFA5,100:0D1117&height=120&section=footer" width="100%" alt="Footer" />
+
+</div>
