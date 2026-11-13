@@ -1,300 +1,254 @@
 <!--
-  VES//VERSE — a personal GitHub profile for Veselin Stoyanov.
-  Single README.md; no additional local SVG, GIF, CSS, or JS files required.
-  Shields are delivered by shields.io (not stored in this repository).
-  Existing GIFs: pacman.gif, snake.gif, pong.gif, space-invaders.gif.
-  Contribution snake: existing Actions workflow on branch output.
+  VES//VERSE — a GitHub profile README for @VeselinSv.
+  Designed to work as a single README.md.
+  The four local arcade GIFs and the contribution-snake workflow already exist in this repository.
+  External banner, typing animation, icons, and analytics require their respective services to be online.
 -->
 
 <div align="center">
 
-<sub>✦ &nbsp; A PERSONAL SPACE ON THE INTERNET &nbsp; / &nbsp; EST. IN CURIOSITY &nbsp; ✦</sub>
+<img width="100%" alt="Veselin Stoyanov — Code. Create. Experiment." src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:080B18,45:44208C,100:06B6D4&text=VESELIN%20STOYANOV&fontColor=FFFFFF&fontSize=49&fontAlignY=39&desc=DEVELOPER%20%2F%20MAKER%20%2F%20WORLD-BUILDER&descSize=16&descAlignY=60&animation=fadeIn" />
+
+<a href="https://github.com/VeselinSv">
+  <img src="https://img.shields.io/badge/VES%2F%2FVERSE-ONLINE-22D3EE?style=for-the-badge&labelColor=111827" alt="VES//VERSE online" />
+</a>
+<a href="https://github.com/VeselinSv?tab=repositories">
+  <img src="https://img.shields.io/badge/STATUS-ALWAYS%20BUILDING-A78BFA?style=for-the-badge&labelColor=111827" alt="Always building" />
+</a>
+<img src="https://img.shields.io/badge/BASED%20IN-BULGARIA-FA709A?style=for-the-badge&labelColor=111827" alt="Based in Bulgaria" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SYSTEM-VES%2F%2FVERSE-0B1020?style=for-the-badge&labelColor=8B5CF6&color=111827" alt="VES//VERSE" />
-<img src="https://img.shields.io/badge/STATUS-ALWAYS%20BUILDING-111827?style=for-the-badge&labelColor=00D9FF&color=111827" alt="Always building" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=1050&color=22D3EE&center=true&vCenter=true&repeat=true&width=820&height=55&lines=I+turn+%22what+if%3F%22+into+%22it+works.%22;I+build+worlds%2C+games+%26+useful+things.;Sometimes+the+best+ideas+start+with+%22why+not%3F%22" alt="Typing animation: I turn what if into it works" />
+</a>
 
-<h1>HEY, I'M VESELIN <code>_</code></h1>
+<h3>Not just writing code. <strong>Building things worth exploring.</strong></h3>
 
-<strong>Veselin Stoyanov</strong> &nbsp; • &nbsp; <code>@VeselinSv</code>
-
-<br>
-
-<strong>Code. Create. Experiment. Repeat.</strong>
-
-<sub>I like the part where an idea stops being an idea and starts actually working.</sub>
+<sub>Game worlds · Web experiences · AI experiments · Physical computing</sub>
 
 <br><br>
 
-<a href="https://github.com/VeselinSv?tab=repositories"><img src="https://img.shields.io/badge/%E2%86%97%20EXPLORE%20MY%20CODE-171B2E?style=for-the-badge&labelColor=171B2E&color=8B5CF6" alt="Explore my code" /></a>
-<a href="https://x.com/VeselinStoqnov6"><img src="https://img.shields.io/badge/%E2%86%97%20FIND%20ME%20ON%20X-171B2E?style=for-the-badge&labelColor=171B2E&color=00D9FF" alt="Find me on X" /></a>
+<a href="#the-builds"><img src="https://img.shields.io/badge/EXPLORE%20THE%20BUILDS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore the builds" /></a>
+<a href="#the-toolbox"><img src="https://img.shields.io/badge/OPEN%20THE%20TOOLBOX-0891B2?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Open the toolbox" /></a>
+<a href="https://x.com/VeselinStoqnov6"><img src="https://img.shields.io/badge/SAY%20HELLO-111827?style=for-the-badge&logo=x&logoColor=white" alt="Say hello on X" /></a>
 
 <br><br>
 
-<a href="#about-me">ABOUT</a> &nbsp; ✦ &nbsp;
-<a href="#my-loadout">LOADOUT</a> &nbsp; ✦ &nbsp;
-<a href="#current-quest">QUEST</a> &nbsp; ✦ &nbsp;
-<a href="#arcade-zone">ARCADE</a> &nbsp; ✦ &nbsp;
-<a href="#contribution-snake">SNAKE</a>
-
-<br><br>
-
-<code>01 // EXPLORE</code> &nbsp; · &nbsp; <code>02 // BREAK STUFF</code> &nbsp; · &nbsp; <code>03 // LEARN</code> &nbsp; · &nbsp; <code>04 // BUILD AGAIN</code>
+<sub>↓ &nbsp; SCROLL TO ENTER THE VERSE &nbsp; ↓</sub>
 
 </div>
 
 ---
 
-<a id="about-me"></a>
+<a id="the-person"></a>
 
-## `01` &nbsp; ✳ &nbsp; About the player
+## `01 / IDENTITY` &nbsp; Hi, I'm Veselin 👋
 
 <table>
 <tr>
-<td width="65%" valign="top">
-
-<h3>Hello, world. I'm Veselin 👋</h3>
-<p>I'm into <strong>software, web development, Unity, and electronics</strong> — not because they fit neatly into one category, but because each one lets me make something different.</p>
-<p>Sometimes that's a web page. Sometimes it's a C# script. Sometimes it's making an Arduino do something it definitely wasn't doing five minutes earlier.</p>
-<p><strong>My favorite way to learn:</strong> try → debug → understand → improve.</p>
-
+<td width="61%" valign="top">
+<p>I'm <strong>Veselin Stoyanov</strong> — a developer and hands-on maker from Bulgaria.</p>
+<p>My projects wander between <strong>simulation games</strong>, <strong>interactive 3D worlds</strong>, <strong>web platforms</strong>, <strong>AI-powered tools</strong>, and <strong>Arduino experiments</strong>. Different technologies, same obsession: taking a wild idea and making it real.</p>
+<p>I like learning by building, breaking, debugging, and building again. If something sparks my curiosity, there's a good chance I'll try to prototype it.</p>
+<p><strong>My rule:</strong> Make it work. Make it feel good. Then make it better.</p>
 </td>
-<td width="35%" valign="top">
-
-<h3><code>PLAYER_01.STATUS</code></h3>
-<p><strong>Alias</strong> &nbsp; <code>VeselinSv</code></p>
-<p><strong>Class</strong> &nbsp; Curious builder</p>
-<p><strong>Mode</strong> &nbsp; Learning by doing</p>
-<p><strong>Main quest</strong> &nbsp; First Unity game</p>
-<p><strong>Side quest</strong> &nbsp; Web + Arduino</p>
-<img src="https://img.shields.io/badge/●-ONLINE-00D9FF?style=flat-square&labelColor=111827" alt="Online-themed profile status badge" />
-
+<td width="39%" valign="top">
+<pre lang="yaml"><code>player: VeselinStoyanov
+handle: "@VeselinSv"
+role: Creative Developer
+location: Bulgaria
+favorite_mode: Build &amp; Experiment
+currently:
+  - Web &amp; Game Development
+  - Interactive Experiences
+  - AI &amp; ML Exploration
+mission: Turn ideas into reality</code></pre>
 </td>
 </tr>
 </table>
 
-> **The fun part isn't knowing everything. It's figuring out something I couldn't do yesterday.**
+<a id="the-builds"></a>
 
-<a id="my-loadout"></a>
-
-## `02` &nbsp; ⚡ &nbsp; My loadout
+## `02 / PROJECT VAULT` &nbsp; Things I've been building 🚀
 
 <div align="center">
 
-<sub>LANGUAGES, TOOLS & THINGS I'M LEARNING BY ACTUALLY USING THEM</sub>
+<strong>Less "hello world." More "wait... you built THAT?"</strong>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/C%23-8B5CF6?style=for-the-badge&logo=csharp&logoColor=white" alt="C sharp" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
-
-<br>
-
-<img src="https://img.shields.io/badge/UNITY-111827?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-<img src="https://img.shields.io/badge/ARDUINO-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/VISUAL%20STUDIO-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-
-<br><br>
+<sub>Selected projects from my actual repositories. Click any title to see the code.</sub>
 
 </div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-<strong><code>[ 01 ] SOFTWARE / LOGIC</code></strong>
-<p>C#, JavaScript, debugging and understanding how things work under the hood.</p>
-
+<h3>🏙️ <a href="https://github.com/VeselinSv/Urbanica">URBANICA</a></h3>
+<p><strong>Build a country. Shape an economy.</strong></p>
+<p>An ambitious browser-based city-building and economic simulation set on a map of Bulgaria. Cities, industries, markets, infrastructure, and a shared evolving world.</p>
+<p><code>TypeScript</code> <code>React</code> <code>PixiJS</code> <code>NestJS</code> <code>PostgreSQL</code></p>
+<a href="https://github.com/VeselinSv/Urbanica"><img src="https://img.shields.io/badge/EXPLORE%20URBANICA-7C3AED?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore Urbanica" /></a>
 </td>
 <td width="50%" valign="top">
-
-<strong><code>[ 02 ] WEB / INTERFACES</code></strong>
-<p>HTML, CSS and JavaScript — giving ideas a home in the browser.</p>
-
+<h3>🌀 <a href="https://github.com/VeselinSv/FLIPOUT">FLIPOUT</a></h3>
+<p><strong>Gravity is just a suggestion.</strong></p>
+<p>A fast-paced 2D browser arcade where gravity shifts, arenas change, and quick decisions keep you alive.</p>
+<p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Game Design</code></p>
+<a href="https://flipout97.web.app/"><img src="https://img.shields.io/badge/PLAY%20THE%20GAME-0891B2?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Play FLIPOUT" /></a>
 </td>
 </tr>
 <tr>
-<td valign="top">
-
-<strong><code>[ 03 ] UNITY / GAMES</code></strong>
-<p>Learning C# scripting, game logic and the feel of interactive experiences.</p>
-
+<td width="50%" valign="top">
+<h3>🎓 <a href="https://github.com/VeselinSv/EduVision">EDUVISION</a></h3>
+<p><strong>Learning meets intelligent tools.</strong></p>
+<p>An education platform for classrooms, lessons, and school management, with an AI assistant that can answer questions about lesson content.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>MySQL</code></p>
+<a href="https://github.com/VeselinSv/EduVision"><img src="https://img.shields.io/badge/SEE%20THE%20PLATFORM-7C3AED?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore EduVision" /></a>
 </td>
-<td valign="top">
-
-<strong><code>[ 04 ] ARDUINO / HARDWARE</code></strong>
-<p>Experimenting with electronics and turning code into real-world behavior.</p>
-
+<td width="50%" valign="top">
+<h3>🏫 <a href="https://github.com/VeselinSv/3D-School">3D SCHOOL</a></h3>
+<p><strong>A real school. Reimagined in 3D.</strong></p>
+<p>An interactive Unity project recreating a school environment, with exploration, recognizable spaces, and game-like experiences.</p>
+<p><code>Unity</code> <code>C#</code> <code>3D</code> <code>Interactive Design</code></p>
+<a href="https://github.com/VeselinSv/3D-School"><img src="https://img.shields.io/badge/ENTER%20THE%20WORLD-0891B2?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore 3D School" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🧠 <a href="https://github.com/VeselinSv/ML-Experiment-Lab">ML EXPERIMENT LAB</a></h3>
+<p><strong>Make machine learning experiments easier to understand.</strong></p>
+<p>A desktop-platform project focused on organizing, observing, evaluating, and comparing ML experiments.</p>
+<p><code>Machine Learning</code> <code>Experiment Tracking</code> <code>Data</code></p>
+<a href="https://github.com/VeselinSv/ML-Experiment-Lab"><img src="https://img.shields.io/badge/VIEW%20THE%20LAB-7C3AED?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore ML Experiment Lab" /></a>
+</td>
+<td width="50%" valign="top">
+<h3>⚡ <a href="https://github.com/VeselinSv/Reaction-Game">REACTION GAME</a></h3>
+<p><strong>Code you can actually touch.</strong></p>
+<p>A reaction-time game connecting Arduino hardware with a live web interface and real-time communication.</p>
+<p><code>Arduino</code> <code>Node.js</code> <code>Socket.IO</code> <code>JavaScript</code></p>
+<a href="https://github.com/VeselinSv/Reaction-Game"><img src="https://img.shields.io/badge/SEE%20THE%20HARDWARE-0891B2?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore Reaction Game" /></a>
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+<a href="https://github.com/VeselinSv?tab=repositories">
+  <img src="https://img.shields.io/badge/ALL%20REPOSITORIES%20%E2%86%92-111827?style=for-the-badge&labelColor=111827&color=22D3EE" alt="See all repositories" />
+</a>
+
+</div>
+
+<a id="the-toolbox"></a>
+
+## `03 / TOOLBOX` &nbsp; My creative loadout 🛠️
+
+<div align="center">
+
+<sub>TOOLS I USE ACROSS DIFFERENT PROJECTS — NOT A CLAIM TO HAVE MASTERED THEM ALL</sub>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=ts,js,cs,html,css,react,nodejs,nestjs,postgres,mysql,unity,arduino,git,github,vscode&perline=8" alt="Technology icons: TypeScript, JavaScript, C sharp, HTML, CSS, React, Node.js, NestJS, PostgreSQL, MySQL, Unity, Arduino, Git, GitHub and VS Code" />
+
+<br><br>
+
+<table>
+<tr><th>🕹️ Build</th><th>💻 Create</th><th>🧠 Explore</th><th>⚡ Connect</th></tr>
+<tr><td>Unity, C#, games</td><td>React, TS, web apps</td><td>AI/ML concepts</td><td>Arduino, real-time systems</td></tr>
+</table>
+
+</div>
+
+<a id="the-process"></a>
+
+## `04 / THE LOOP` &nbsp; How ideas become real 💡
+
+```text
+  [ CURIOSITY ] ──► [ PROTOTYPE ] ──► [ BREAK SOMETHING ]
+        ▲                                   │
+        │                                   ▼
+        └──────── [ BUILD BETTER ] ◄── [ DEBUG ]
+```
+
+<div align="center">
+
+<strong>I don't wait until I know everything to start. Building is how I learn.</strong>
+
+</div>
+
+<a id="the-arcade"></a>
+
+## `05 / SECRET ARCADE` &nbsp; Insert curiosity 👾
+
 <details>
-<summary><b>⌘ &nbsp; Open the tool drawer</b> &nbsp; <sub>— extra details</sub></summary>
+<summary><b>🎮 OPEN THE ARCADE — four retro loops hidden inside this profile</b></summary>
 
 <br>
 
-I use **Git & GitHub** to keep track of projects, and **Visual Studio / VS Code** to write, run and debug code. I'm exploring these technologies at different levels — this is my learning toolkit, not a claim that I've mastered all of them.
+<div align="center">
+
+<sub>THESE ARE ANIMATED GIF LOOPS — NOT PLAYABLE GAMES</sub>
+
+<br><br>
+
+<table>
+<tr>
+<td width="50%" align="center"><b>01 · PAC-MAN</b><br><img src="./pacman.gif" width="100%" alt="Pac-Man animated GIF" /></td>
+<td width="50%" align="center"><b>02 · SNAKE</b><br><img src="./snake.gif" width="100%" alt="Snake animated GIF" /></td>
+</tr>
+<tr>
+<td width="50%" align="center"><b>03 · NEON PONG</b><br><img src="./pong.gif" width="100%" alt="Neon Pong animated GIF" /></td>
+<td width="50%" align="center"><b>04 · SPACE INVADERS</b><br><img src="./space-invaders.gif" width="100%" alt="Space Invaders animated GIF" /></td>
+</tr>
+</table>
+
+<sub>Achievement unlocked: you found the easter egg. 🏆</sub>
+
+</div>
 
 </details>
 
-<a id="current-quest"></a>
+<a id="the-trail"></a>
 
-## `03` &nbsp; 🎯 &nbsp; Current quest
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/QUEST-START%20MY%20FIRST%20UNITY%20GAME-111827?style=for-the-badge&labelColor=8B5CF6&color=111827" alt="First Unity Game quest" />
-
-### From an empty scene to something playable.
-
-<sub>No fake progress bars. Just actual checkpoints.</sub>
-
-</div>
-
-```diff
-+ UNLOCKED  Exploring Unity and C#
-+ UNLOCKED  Programming foundations
-! ACTIVE    Experimenting with gameplay mechanics
-! ACTIVE    Improving scripts, logic and debugging
-- NEXT      Finish a playable first game
-```
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3><code>MAIN STORY</code> 🎮</h3>
-<p>Build my first Unity game, understand what makes its mechanics work and learn from the parts that don't work on the first try.</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3><code>SIDE QUESTS</code> 🧩</h3>
-<p>Keep getting better at JavaScript, build more interesting web projects and explore new Arduino experiments.</p>
-
-</td>
-</tr>
-</table>
+## `06 / THE TRAIL` &nbsp; Every contribution is a step 🐍
 
 <div align="center">
-
-<a href="https://github.com/VeselinSv?tab=repositories"><img src="https://img.shields.io/badge/%E2%86%97%20OPEN%20PROJECT%20VAULT-111827?style=for-the-badge&labelColor=111827&color=A78BFA" alt="Open project vault" /></a>
-
-</div>
-
-<a id="arcade-zone"></a>
-
-## `04` &nbsp; 👾 &nbsp; Arcade after hours
-
-<div align="center">
-
-<sub>INSERT CURIOSITY &nbsp; ✦ &nbsp; PRESS PLAY &nbsp; ✦ &nbsp; REPEAT</sub>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/ARCADE-4%20RETRO%20LOOPS-111827?style=for-the-badge&labelColor=EC4899&color=111827" alt="Arcade with four retro animation loops" />
-
-<br><br>
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<strong><code>01 // PAC-MAN</code></strong>
-
-<img src="./pacman.gif" width="100%" alt="Pac-Man animated loop" />
-
-</td>
-<td width="50%" align="center">
-
-<strong><code>02 // SNAKE</code></strong>
-
-<img src="./snake.gif" width="100%" alt="Snake animated loop" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-<strong><code>03 // NEON PONG</code></strong>
-
-<img src="./pong.gif" width="100%" alt="Neon Pong animated loop" />
-
-</td>
-<td width="50%" align="center">
-
-<strong><code>04 // SPACE INVADERS</code></strong>
-
-<img src="./space-invaders.gif" width="100%" alt="Space Invaders animated loop" />
-
-</td>
-</tr>
-</table>
-
-<sub>These are animated loops already in my repository — not playable games.</sub>
-
-</div>
-
-<a id="contribution-snake"></a>
-
-## `05` &nbsp; 🐍 &nbsp; The contribution snake
-
-<div align="center">
-
-<img src="https://img.shields.io/github/actions/workflow/status/VeselinSv/VeselinSv/snake.yml?style=for-the-badge&label=SNAKE%20ENGINE&labelColor=111827" alt="Snake workflow status" />
-
-<br><br>
-
-**Every commit is another pixel in the journey.**
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VeselinSv/VeselinSv/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VeselinSv/VeselinSv/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/VeselinSv/VeselinSv/output/github-snake-dark.svg" alt="Animated contribution snake eating GitHub contributions" width="100%">
+  <img src="https://raw.githubusercontent.com/VeselinSv/VeselinSv/output/github-snake-dark.svg" width="100%" alt="Contribution snake animation" />
 </picture>
 
-<br>
+<sub>Powered by the <a href="https://github.com/VeselinSv/VeselinSv/actions/workflows/snake.yml">existing snake workflow</a> · light and dark themes</sub>
 
-<sub>Auto-updated by <a href="https://github.com/VeselinSv/VeselinSv/actions/workflows/snake.yml">my existing GitHub Actions workflow</a> · light & dark modes</sub>
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VeselinSv&bg_color=0D1117&color=22D3EE&line=A78BFA&point=FFFFFF&area=true&hide_border=true&custom_title=The%20Build%20Timeline" alt="GitHub public contribution activity graph" width="100%" />
 
 </div>
 
 ---
 
-<details>
-<summary><b>🔓 &nbsp; SECRET LEVEL: OFFLINE MODE</b> &nbsp; <sub>click to unlock</sub></summary>
-
-<br>
-
-There's more to me than code. I like **football**, **video games**, **computers** and the kind of random creative challenges that make me wonder, *“Could I build that myself?”*
-
-**Achievement unlocked:** staying curious.
-
-</details>
-
-<br>
-
 <div align="center">
 
-<sub>✳ &nbsp; <code>END OF FILE ≠ END OF STORY</code> &nbsp; ✳</sub>
+<h3><code>&gt; still_building.exe</code></h3>
 
-### Still learning. Still building. Still having fun with it.
+<strong>Some people collect ideas. I like bringing mine to life.</strong>
 
-<a href="https://github.com/VeselinSv"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/VeselinSv?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
-<a href="https://x.com/VeselinStoqnov6"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X social profile" /></a>
+<sub>Built with curiosity in Bulgaria 🇧🇬 · Powered by experiments, bugs, and the occasional breakthrough.</sub>
 
 <br><br>
 
-<sub>HANDCRAFTED WITH CURIOSITY &nbsp; · &nbsp; VESELIN STOYANOV</sub>
+<a href="https://github.com/VeselinSv"><img src="https://img.shields.io/badge/GITHUB-VeselinSv-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://github.com/VeselinSv?tab=repositories"><img src="https://img.shields.io/badge/SEE%20MY%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="See all my projects" /></a>
+<a href="https://x.com/VeselinStoqnov6"><img src="https://img.shields.io/badge/FIND%20ME%20ON%20X-111827?style=for-the-badge&logo=x&logoColor=white" alt="Find me on X" /></a>
+
+<br><br>
+
+<sub>✦ &nbsp; END OF README. NOT THE END OF THE STORY. &nbsp; ✦</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:080B18,45:44208C,100:06B6D4" width="100%" alt="Neon footer wave" />
 
 </div>
