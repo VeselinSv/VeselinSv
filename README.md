@@ -31,6 +31,7 @@
 
 <a href="#the-builds"><img src="https://img.shields.io/badge/EXPLORE%20THE%20BUILDS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore the builds" /></a>
 <a href="#the-toolbox"><img src="https://img.shields.io/badge/OPEN%20THE%20TOOLBOX-0891B2?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Open the toolbox" /></a>
+<a href="#language-statistics"><img src="https://img.shields.io/badge/LANGUAGE%20STATS-%25%20OF%20CODE-111827?style=for-the-badge&labelColor=111827&color=22D3EE" alt="Language statistics and percentages" /></a>
 <a href="https://x.com/VeselinStoqnov6"><img src="https://img.shields.io/badge/SAY%20HELLO-111827?style=for-the-badge&logo=x&logoColor=white" alt="Say hello on X" /></a>
 
 <br><br>
@@ -157,6 +158,32 @@ mission: Turn ideas into reality</code></pre>
 <tr><th>🕹️ Build</th><th>💻 Create</th><th>🧠 Explore</th><th>⚡ Connect</th></tr>
 <tr><td>Unity, C#, games</td><td>React, TS, web apps</td><td>AI/ML concepts</td><td>Arduino, real-time systems</td></tr>
 </table>
+
+</div>
+
+<a id="language-statistics"></a>
+
+### `LANGUAGE DNA` &nbsp; Which languages power my projects? 📊
+
+<div align="center">
+
+**Every language leaves its fingerprint. Here's mine.**
+
+<sub>LIVE LANGUAGE BREAKDOWN · PUBLIC GITHUB REPOSITORIES · AUTOMATICALLY UPDATED</sub>
+
+<br><br>
+
+<a href="https://github.com/VeselinSv?tab=repositories">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeselinSv&amp;layout=compact&amp;langs_count=12&amp;card_width=600&amp;stats_format=percentages&amp;size_weight=1&amp;count_weight=0&amp;bg_color=0D1117&amp;title_color=22D3EE&amp;text_color=E2E8F0&amp;border_color=7C3AED"
+    alt="Dynamic percentages of the top programming languages in VeselinSv's public non-forked GitHub repositories"
+    width="100%"
+  />
+</a>
+
+<br>
+
+<sub>Percentages are calculated from detected code size (bytes) in my public, non-forked repositories — not time spent coding or skill level. Top 12 languages shown; the public statistics service may occasionally be unavailable.</sub>
 
 </div>
 
