@@ -163,33 +163,27 @@ mission: Turn ideas into reality</code></pre>
 
 <a id="language-statistics"></a>
 
-### `LANGUAGE DNA` &nbsp; Which languages power my projects? 📊
+## `04 / LANGUAGE DNA` &nbsp; Which languages do I use most? 📊
 
 <div align="center">
 
-**Every language leaves its fingerprint. Here's mine.**
+**A live breakdown of the programming languages across my public repositories.**
 
-<sub>LIVE LANGUAGE BREAKDOWN · PUBLIC GITHUB REPOSITORIES · AUTOMATICALLY UPDATED</sub>
+<sub>AUTOMATICALLY UPDATED · BASED ON GITHUB REPOSITORY LANGUAGE DATA</sub>
 
 <br><br>
 
-<a href="https://github.com/VeselinSv?tab=repositories">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeselinSv&amp;layout=compact&amp;langs_count=12&amp;card_width=600&amp;stats_format=percentages&amp;size_weight=1&amp;count_weight=0&amp;bg_color=0D1117&amp;title_color=22D3EE&amp;text_color=E2E8F0&amp;border_color=7C3AED"
-    alt="Dynamic percentages of the top programming languages in VeselinSv's public non-forked GitHub repositories"
-    width="100%"
-  />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeselinSv&layout=compact&langs_count=10&card_width=700&theme=tokyonight&hide_border=true)](https://github.com/VeselinSv?tab=repositories)
 
 <br>
 
-<sub>Percentages are calculated from detected code size (bytes) in my public, non-forked repositories — not time spent coding or skill level. Top 12 languages shown; the public statistics service may occasionally be unavailable.</sub>
+<sub>The percentages are based on the amount of code detected in my public repositories. They do not represent time spent coding or skill level.</sub>
 
 </div>
 
 <a id="the-process"></a>
 
-## `04 / THE LOOP` &nbsp; How ideas become real 💡
+## `05 / THE LOOP` &nbsp; How ideas become real 💡
 
 ```text
   [ CURIOSITY ] ──► [ PROTOTYPE ] ──► [ BREAK SOMETHING ]
@@ -206,7 +200,7 @@ mission: Turn ideas into reality</code></pre>
 
 <a id="the-arcade"></a>
 
-## `05 / SECRET ARCADE` &nbsp; Insert curiosity 👾
+## `06 / SECRET ARCADE` &nbsp; Insert curiosity 👾
 
 <details>
 <summary><b>🎮 OPEN THE ARCADE — four retro loops hidden inside this profile</b></summary>
@@ -238,7 +232,7 @@ mission: Turn ideas into reality</code></pre>
 
 <a id="the-trail"></a>
 
-## `06 / THE TRAIL` &nbsp; Every contribution is a step 🐍
+## `07 / THE TRAIL` &nbsp; Every contribution is a step 🐍
 
 <div align="center">
 
@@ -250,9 +244,6 @@ mission: Turn ideas into reality</code></pre>
 
 <sub>Powered by the <a href="https://github.com/VeselinSv/VeselinSv/actions/workflows/snake.yml">existing snake workflow</a> · light and dark themes</sub>
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VeselinSv&bg_color=0D1117&color=22D3EE&line=A78BFA&point=FFFFFF&area=true&hide_border=true&custom_title=The%20Build%20Timeline" alt="GitHub public contribution activity graph" width="100%" />
 
 </div>
 
